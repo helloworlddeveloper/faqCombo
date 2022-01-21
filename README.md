@@ -44,7 +44,7 @@ run_script.sh
 This will setup/run the tool.
 
 <h1 align="left">
-  <img src="src/hc.PNG" alt="Main Commands" width="700px"></a>
+  <img src="src/hc.png" alt="Main Commands" width="700px"></a>
   <br>
 </h1>
 
