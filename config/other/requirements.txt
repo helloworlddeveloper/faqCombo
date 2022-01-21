@@ -1,0 +1,9 @@
+requests
+colorama
+datetime
+codecs
+getpass
+isort
+webbrowser
+sys
+platform
