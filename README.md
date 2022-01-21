@@ -19,7 +19,7 @@ faqCombo is tool that developed by Salman Alwan aka JustFaQ to save your time ed
 # Features
 
 <h1 align="left">
-  <img src="src/mc.PNG" alt="Main Commands" width="700px"></a>
+  <img src="src/mc.png" alt="Main Commands" width="700px"></a>
   <br>
 </h1>
 
