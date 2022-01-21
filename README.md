@@ -73,6 +73,7 @@ To install run these comands:
 ```
 
 <h2>Other: </h2>
+
 ```sh
 ▶ sudo apt install git
 ```
