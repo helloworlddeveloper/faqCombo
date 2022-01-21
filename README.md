@@ -29,12 +29,14 @@ faqCombo is tool that developed by Salman Alwan aka JustFaQ to save your time ed
  # Usage
 
 <h2>Windows: </h2>
+
 ```sh
 requirement_install.bat
 run_script.bat
 ```
 
 <h2>Other: </h2>
+
 ```sh
 requirement_install.sh
 run_script.sh
@@ -91,12 +93,14 @@ To install run these comands:
 To run the tool, just use the following command.
 
 <h2>Windows: </h2>
+
 ```sh
 ▶ requirement_install.sh
 ▶ run_script.sh
 ```
 
 <h2>Other: </h2>
+
 ```sh
 ▶ requirement_install.sh
 ▶ run_script.sh
